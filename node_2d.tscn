@@ -5,7 +5,7 @@
 [node name="Node2D" type="Node2D" unique_id=1402749357]
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=1520590772]
-position = Vector2(-1538.9999, -593.99994)
+position = Vector2(352.99988, -652)
 rotation = 0.042161614
 scale = Vector2(-50.135303, 14.770714)
 texture = ExtResource("1_wtcfe")
