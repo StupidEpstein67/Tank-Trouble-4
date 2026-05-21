@@ -4,8 +4,13 @@
 
 [node name="Node2D" type="Node2D" unique_id=1402749357]
 
+<<<<<<< Updated upstream
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=1520590772]
 position = Vector2(-2888.9995, -202)
 rotation = 0.042161614
 scale = Vector2(-50.135303, 14.770714)
+=======
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=328296659]
+scale = Vector2(1.048, 1)
+>>>>>>> Stashed changes
 texture = ExtResource("1_wtcfe")
